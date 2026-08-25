@@ -1,72 +1,88 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9A3&height=200&text=Anderson%20Valero&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Ciberseguridad&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<div align="center">
-
-![Desarrollador de Software](https://img.shields.io/badge/Desarrollador-Software-6C63FF?style=for-the-badge)
-![Ciberseguridad](https://img.shields.io/badge/Orientación-Ciberseguridad-00D9A3?style=for-the-badge)
-![GRC](https://img.shields.io/badge/GRC-Gobernanza%20%26%20Riesgo-FF6584?style=for-the-badge)
-![Autodidacta](https://img.shields.io/badge/Aprendizaje-Autodidacta-FFC93C?style=for-the-badge)
-
-</div>
-
-<br>
-
-## 🧭 Sobre mí
-
-Desarrollador de software con orientación en ciberseguridad. Con experiencia real en seguridad de la información: políticas, gestión de riesgos, control de acceso y remediación de vulnerabilidades.
-
-Soy autodidacta — la mayor parte de lo que sé lo aprendí construyendo proyectos propios, no solo con cursos. Me muevo en dos frentes:
-
-| | |
-|---|---|
-| 🎯 **Ofensivo** | Pentesting, red team, hacking ético |
-| 📋 **GRC** | Gobernanza, riesgo y cumplimiento normativo |
-
-<br>
-
-## 🛠️ Stack de tecnologías
-
 <table>
 <tr>
-<td valign="top" width="50%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres" />
-
+<td width="200" align="center" valign="middle">
+<img src="assets/foto.jpg" width="180" style="border-radius:6px;" />
 </td>
-<td valign="top" width="50%">
+<td valign="middle">
 
-**Frontend**
+```
+anderson@github
+────────────────────────────────────────────
+OS ..................: Desarrollador de Software / Ciberseguridad
+Uptime ...............: Autodidacta
+Focus ................: Pentesting · Red Team · GRC
+Currently ............: Preparando eJPT
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" />
+Languages.Programming : Python, JavaScript, TypeScript
+Languages.Human ......: Español (nativo), Inglés (técnico)
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+Stack ................: Python, FastAPI, React, PostgreSQL, Docker
+Security.Tools .......: nmap, sqlmap, nuclei, ffuf, subfinder, amass
 
-**Infraestructura**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git" />
-
-</td>
-<td valign="top">
-
-**IA / Machine Learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0f5132?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square)
+Contact ..............: github.com/Anderson-029
+────────────────────────────────────────────
+GitHub Stats — Repos: 5 | Followers: 4 | Following: 5 | Stars: 0
+```
 
 </td>
 </tr>
 </table>
 
+## Sobre mí
+
+Construyo herramientas de pentesting y automatización: agentes de reconocimiento con IA, motores de auditoría de redes y sistemas de decisión híbridos (ML + LLM). La mayor parte de lo que sé lo aprendí construyendo estos proyectos, no solo en cursos.
+
+🔭 Actualmente: preparando la certificación **eJPT** y documentando laboratorios de pentesting propios.
+
+| | |
+|---|---|
+| **Ofensivo** | Pentesting, red team, hacking ético |
+| **GRC** | Gobernanza, riesgo y cumplimiento normativo |
+
 <br>
 
-## 🔐 Herramientas de ciberseguridad
+## Proyectos destacados
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [SysMho Hunter](https://github.com/Anderson-029/SysMho_Hunter)
+Agente autónomo de pentesting y bug bounty para HackerOne. Cerebro híbrido de decisión en 3 niveles: ML (scikit-learn) → LLM local (Ollama) → cloud (Gemini), enriquecido con RAG (Qdrant) sobre OWASP/PortSwigger. 19 herramientas de recon/explotación integradas.
+
+</td>
+<td width="33%" valign="top">
+
+### [SysMho Venom](https://github.com/Anderson-029/SysMho_Venom)
+Motor CLI de auditoría de redes en Python (Scapy + iptables): ARP spoofing, sniffing clasificado por protocolo y detección pasiva de sniffers. Evidencia verificable con hash SHA-256, sin base de datos.
+
+</td>
+<td width="33%" valign="top">
+
+### [SysMho](https://github.com/Anderson-029/SysMho)
+Trading algorítmico en Binance Futures: XGBoost (28 features) + investigación de contexto vía Gemini, sobre 10 activos y múltiples timeframes. Motor de decisión autónomo con CircuitBreaker como red de seguridad de capital.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## Stack de tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,react,ts,js,vite,tailwind,linux,bash,docker,git" />
+
+</div>
+
+<br>
+
+## Herramientas de ciberseguridad
 
 <div align="center">
 
@@ -76,16 +92,12 @@ Soy autodidacta — la mayor parte de lo que sé lo aprendí construyendo proyec
 
 <br>
 
-## 🏆 Certificaciones e insignias
+## Certificaciones e insignias
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="140">
-<img src="Insignias/isc2-candidate.png" width="90"/><br>
-<sub><b>ISC² Candidate</b></sub>
-</td>
 <td align="center" width="140">
 <img src="Insignias/cybersecurity-fundamentals.png" width="90"/><br>
 <sub><b>Cybersecurity Fundamentals</b></sub>
@@ -112,50 +124,6 @@ Soy autodidacta — la mayor parte de lo que sé lo aprendí construyendo proyec
 <img src="Insignias/agile-explorer.png" width="90"/><br>
 <sub><b>Agile Explorer</b></sub>
 </td>
-<td align="center" width="140"></td>
-</tr>
-</table>
-
-</div>
-
-**En progreso**
-
-```
-[x] ISC²  Certified in Cybersecurity (CC)
-[x] ISO/IEC 27001:2022 Fundamentals
-[~] Cisco Ethical Hacker
-[ ] eJPT
-[ ] ISO/IEC 27001 Lead Auditor
-[ ] PNPT
-[ ] OSCP
-```
-
-<br>
-
-## 🚀 Proyectos destacados
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🕵️ SysMho Hunter
-Agente autónomo de pentesting y bug bounty. Cerebro híbrido de decisión en 3 niveles: ML (scikit-learn) → LLM local (Ollama) → cloud (Gemini). 19 herramientas de recon/explotación integradas.
-
-</td>
-<td width="33%" valign="top">
-
-### 🐍 SysMho Venom
-Herramienta de auditoría de redes: ARP spoofing, sniffing y detección de sniffers, con panel web de administración.
-
-</td>
-<td width="33%" valign="top">
-
-### 📈 SysMho
-Sistema de trading algorítmico con XGBoost, gestión de riesgo y protección de capital como prioridad.
-
-</td>
 </tr>
 </table>
 
@@ -163,22 +131,7 @@ Sistema de trading algorítmico con XGBoost, gestión de riesgo y protección de
 
 <br>
 
-## 📊 Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anderson-029&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anderson-029&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-029&layout=compact&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anderson-029&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br>
-
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
@@ -188,4 +141,4 @@ Sistema de trading algorítmico con XGBoost, gestión de riesgo y protección de
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A3,100:6C63FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03313A,50:8FFFE0,100:03313A&height=100&section=footer" width="100%" />
