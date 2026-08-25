@@ -1,43 +1,16 @@
-<table>
-<tr>
-<td width="200" align="center" valign="middle">
-<img src="assets/foto.jpg" width="180" style="border-radius:6px;" />
-</td>
-<td valign="middle">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03313A,50:8FFFE0,100:03313A&height=140&text=ANDERSON&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+</p>
 
-```
-anderson@github
-────────────────────────────────────────────
-OS ..................: Desarrollador de Software / Ciberseguridad
-Uptime ...............: Autodidacta
-Focus ................: Pentesting · Red Team · GRC
-Currently ............: Preparando eJPT
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=999999&color=ffffff&vCenter=true&width=130&height=30&lines=%24+whoami%3A" alt="prompt" align="top" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=2000&color=ffffff&vCenter=true&width=350&height=30&lines=Desarrollador+de+Software" alt="whoami" align="top" />
+</p>
 
-Languages.Programming : Python, JavaScript, TypeScript
-Languages.Human ......: Español (nativo), Inglés (técnico)
+Soy Tecnólogo en **Análisis y Desarrollo de Software**, con especial interés en la **ciberseguridad** y el **ethical hacking**. Pienso de forma analítica, lógica y crítica: investigo cómo funcionan las cosas para entenderlas, no solo para usarlas.
 
-Stack ................: Python, FastAPI, React, PostgreSQL, Docker
-Security.Tools .......: nmap, sqlmap, nuclei, ffuf, subfinder, amass
+Combino desarrollo de software, Linux, bases de datos y redes con una orientación clara hacia la **seguridad ofensiva y el pentesting**, complementada con una mirada de **gobernanza y gestión de riesgos**. Entender cómo se explota una falla y cómo se previene a nivel organizacional son las dos caras de la misma moneda para mí — los proyectos de abajo son la prueba, no solo teoría.
 
-Contact ..............: github.com/Anderson-029
-────────────────────────────────────────────
-GitHub Stats — Repos: 5 | Followers: 4 | Following: 5 | Stars: 0
-```
-
-</td>
-</tr>
-</table>
-
-## Sobre mí
-
-Construyo herramientas de pentesting y automatización: agentes de reconocimiento con IA, motores de auditoría de redes y sistemas de decisión híbridos (ML + LLM). La mayor parte de lo que sé lo aprendí construyendo estos proyectos, no solo en cursos.
-
-🔭 Actualmente: preparando la certificación **eJPT** y documentando laboratorios de pentesting propios.
-
-| | |
-|---|---|
-| **Ofensivo** | Pentesting, red team, hacking ético |
-| **GRC** | Gobernanza, riesgo y cumplimiento normativo |
+Actualmente me encuentro desempeñando roles de Líder de Seguridad de la Información y Desarrollador de Software en un proyecto del SENA, liderando la implementación de un MSPI (Modelo de Seguridad y Privacidad de la Información) que abarca los dominios fundamentales de la seguridad de la información: principios de seguridad y gobernanza, gestión de riesgos y cumplimiento normativo, control de acceso, seguridad de redes, continuidad del negocio y respuesta a incidentes, y operaciones de seguridad — complementado con remediaciones técnicas sobre vulnerabilidades OWASP y modelado de amenazas basado en MITRE ATT&CK.
 
 <br>
 
