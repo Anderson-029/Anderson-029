@@ -11,7 +11,7 @@
 </defs>
 
 <!-- ola real de capsule-render, igual patron que el footer: sin rectangulo solido
-     detras -- la silueta la da la propia ola (transparente donde no hay ola),
+     detras: la silueta la da la propia ola (transparente donde no hay ola),
      estirada para cubrir el ancho nuevo -->
 <g transform="scale(1.00000,1)">
   <g transform="translate(427, 70) scale(1, 1) translate(-427, -70)">
