@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03313A,50:8FFFE0,100:03313A&height=140&text=ANDERSON&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="banner.svg" width="100%" />
 </p>
 
 <p align="center">
